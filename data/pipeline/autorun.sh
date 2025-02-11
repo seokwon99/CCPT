@@ -1,0 +1,20 @@
+sr 0 python -m dataset.processed.demo3 --chunk 0 &
+sr 0 python -m dataset.processed.demo3 --chunk 1 &
+sr 0 python -m dataset.processed.demo3 --chunk 2 &
+sr 0 python -m dataset.processed.demo3 --chunk 3 &
+sr 0 python -m dataset.processed.demo3 --chunk 4 &
+sr 0 python -m dataset.processed.demo3 --chunk 5 &
+sr 0 python -m dataset.processed.demo3 --chunk 6 &
+sr 0 python -m dataset.processed.demo3 --chunk 7 &
+sr 0 python -m dataset.processed.demo3 --chunk 8 &
+sr 0 python -m dataset.processed.demo3 --chunk 9 &
+sr 0 python -m dataset.processed.demo3 --chunk 10 &
+sr 0 python -m dataset.processed.demo3 --chunk 11 &
+sr 0 python -m dataset.processed.demo3 --chunk 12 &
+sr 0 python -m dataset.processed.demo3 --chunk 13 &
+sr 0 python -m dataset.processed.demo3 --chunk 14 &
+sr 0 python -m dataset.processed.demo3 --chunk 15 &
+sr 0 python -m dataset.processed.demo3 --chunk 16 &
+sr 0 python -m dataset.processed.demo3 --chunk 17 &
+sr 0 python -m dataset.processed.demo3 --chunk 18 &
+sr 0 python -m dataset.processed.demo3 --chunk 19
