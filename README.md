@@ -1,4 +1,6 @@
 # Conceptual Combination with Property Type (CCPT)
+[**📖 CCPT arXiv**](https://arxiv.org/abs/2502.06086/) | [**🤗 CCPT**](https://huggingface.co/datasets/seokwon99/CCPT_12.3K/)
+
 This is the official repository of our NAACL 2025 main paper: <a href="https://arxiv.org/abs/2502.06086"><b>Is Peeled Apple Still Red? Evaluating LLM for Conceptual Combination with Property Type</b></a>
 
 ## Installation
