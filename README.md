@@ -115,11 +115,10 @@ Please contact at seokwon.song@vision.snu.ac.kr
 If you use CCPT in your research, please cite our work:
 
 ```bibtex  
-@inproceedings{song2025ccpt,
+@article{song2025peeled,
   title={Is a Peeled Apple Still Red? Evaluating LLMs' Ability for Conceptual Combination with Property Type},
-  author={Song, Seokwon and Lee, Taehyun and Ahn, Jaewoo and Sung, Jaehyuk and Kim, Gunhee},
-  booktitle={},
-  pages={},
+  author={Song, Seokwon and Lee, Taehyun and Ahn, Jaewoo and Sung, Jae Hyuk and Kim, Gunhee},
+  journal={arXiv preprint arXiv:2502.06086},
   year={2025}
 }
 '''
