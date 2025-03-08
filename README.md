@@ -121,4 +121,4 @@ If you use CCPT in your research, please cite our work:
   journal={arXiv preprint arXiv:2502.06086},
   year={2025}
 }
-'''
+```
